@@ -1,0 +1,52 @@
+body{
+    display: flex;
+justify-content: center;
+background-image: url("https://img.freepik.com/free-photo/neutral-abstract-texture-simple-background_53876-102509.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.box{
+    margin-top: 90px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 10px #D67F6C;
+    width: 400px;
+    height: 450px;
+}
+h1{
+    padding-bottom: 20px;
+    color: #497952;
+    font-weight: bolder;
+}
+
+button{
+    padding: 8px;
+    margin-top: 50px;
+    width: 150px;
+    background-color: #44714d;
+    font-weight: bolder;
+    color: aliceblue;
+    border-radius: 30px;
+    height: 45px;
+}
+p{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+input{
+    padding: 10px;
+    width: 150px;
+    height: 40px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.res{
+    margin-top: 32px;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
